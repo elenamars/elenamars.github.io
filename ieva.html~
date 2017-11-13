@@ -1,10 +1,9 @@
 
-
 <!DOCTYPE html PUBLIC dir="ltr" lang="en-US">
 
 <head>
 	<title>elena | marshall</title>
-	<link rel="stylesheet" type="text/css" href="kissingstyle.css">
+	<link rel="stylesheet" type="text/css" href="ievastyle.css">
 	<style>
 		body {
     background-color: #ebd8de;
@@ -27,7 +26,7 @@
 		<div class="align">
 
 <li id="categories">
-	<li><a href="/" >MAIN</a>
+	<li><a href="pink.html" >MAIN</a>
 </li>
 	<li><a href="contactme.html" >CONTACT ME</a>
 </li>
@@ -47,14 +46,31 @@
 	<div id="photos">
 
 <div id="post-1">
-		<div id="post-2"><h3 class="storytitle"><br><p style="text-align: right;"><span style="color: #709e97;">2017 | <i>KISSING IN OTHER PEOPLE'S HOMES </i>
+		<div id="post-2"><h3 class="storytitle"><br><p style="text-align: right;"><span style="color: #709e97;">2017 | <i>IEVA AND EGIS </i>
 			<div class="box" id="box-1"></div>
 
 							<div class="box" id="box-2">
-							<img  title="kissing in the kitchen" src="img/naked-hug.jpg" width="800"</div>
+							<img  title="ieva" src="img/ieva.jpg" width="380"</div>
 
 							<div class="box" id="box-3">
-							<img  title="kissing in the yard" src="img/naked.jpg" width="700"</div>
+							<img  title="ieva 2" src="img/green.jpg" width="280"</div>
+
+							<div class="box" id="box-4">
+							<img  title="two statues" src="img/bw.jpg" width="500"</div>
+
+							<div class="box" id="box-5">
+							<img  title="egis" src="img/egis.jpg" width="300"</div>
+
+							<div class="box" id="box-6">
+							<img  title="two lovers" src="img/inlove.jpg" width="800"</div>
+
+							<div class="box" id="box-7">
+							<img  title="look" src="img/look.jpg" width="550"</div>
+
+							<div class="box" id="box-8">
+							<img  title="standing" src="img/standing.jpg" width="320"</div>
+
+
 			</div>
 
 
