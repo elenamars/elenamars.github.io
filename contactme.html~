@@ -26,7 +26,7 @@ body {
 		<div class="align">
 
 <li id="categories">
-	<li><a href="/" >MAIN</a>
+	<li><a href="index.html" >MAIN</a>
 </li>
 	<li><a href="contactme.html" >CONTACT ME</a>
 </li>
@@ -40,12 +40,7 @@ body {
 
 <div id="post-1">
 	<br><br><br><br><br><br><br><br><br><br>
-<h1>kate</h1>
-<h1>personal</h1>
-<h1>hello from Earth</h1>
-<h1>long distance</h1>
-<h1><a href="kissing.html">kissing in other people's homes</a></h1>
-<h1><a href="ieva.html">Ieva and Egis</a></h1>
+<h1>hello@elenamars.com</h1>
 </div>
 
 
@@ -60,7 +55,7 @@ body {
 
 		<div id="footer">
 			<center>
-			</span> <a href="mailto:hello@elenamars.com">hello@elenamars.com</a> | thank you | come again soon
+			</span> <a href="mailto:hello@elenamars.com">hello@elenamars.com</a> | thank you | come again soon 
 			</center>
 		</div>
 
