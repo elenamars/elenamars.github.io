@@ -1,7 +1,8 @@
 /* - BACKGROUND AND TEXT - */
-body { background:#FFF; font:12px courier; color:#000; margin:0; padding:0; }
+body {font:12px courier; color:#000; margin:0; padding:0; }
 a { color:#000; text-decoration:none; }
 a:hover { background:#F4C8C5 none repeat scroll 0 0; color:#000; text-decoration:none; }
+
 
 .background {
 	z-index: 10;
@@ -10,14 +11,13 @@ a:hover { background:#F4C8C5 none repeat scroll 0 0; color:#000; text-decoration
 	min-height:600px;
 	margin-top:20px;
 	padding:0;
-	background: url(http://www.dreamandawake.com/diary/wp-content/background/rotator.php) no-repeat right top;
 	}
 
 .nobackground {
 	z-index: 10;
-	width:900px;
+	width:900em;
 	height: auto;
-	min-height:600px;
+	min-height:600em;
 	margin-top:20px;
 	padding:0;
 	font: 12px times new roman
@@ -56,6 +56,10 @@ a:hover { background:#F4C8C5 none repeat scroll 0 0; color:#000; text-decoration
 .undertheimage { margin-top: 0%; text-align:center; margin-left: 0%; background:#FFF;}
 .postthumb1 img:hover {border:0px solid #000000;}
 
+
+
+
+
 html {
     box-sizing: border-box;
 }
@@ -76,7 +80,7 @@ body {
 }
 
 h1 {
-	color: #purple;
+	color: black;
 }
 
 #footer {
@@ -95,12 +99,12 @@ h1 {
 
 #box-3 {
     top: 8em;
-    left: 45em;
+    left: 56em;
 }
 
 #box-4 {
-	left: -60em;
-	top: 50em;
+	left: -70em;
+	top: 55em;
 }
 
 #box-5 {
@@ -109,7 +113,7 @@ h1 {
 }
 
 #box-6 {
-    top: 60em;
+    top: 50em;
     left: -40em;
 }
 
@@ -119,6 +123,21 @@ h1 {
 }
 
 #box-8 {
-    top: -9em;
-    left: 55em;
+    top: -3em;
+    left: 35em;
+}
+
+#box-9 {
+    top: 50em;
+    left: -30em;
+}
+
+#box-10 {
+    top: 64em;
+    left: -7em;
+}
+
+#box-11 {
+    top: -5em;
+    left: 58em;
 }
