@@ -32,3 +32,12 @@ $(document).ready(function(){
         });
 
       });
+
+			var menu=document.getElementById("menu");
+			function appear(){
+				if (menu.style.display=="none"){
+				menu.style.display="block";
+				menu.style.zIndex="2000";
+				console.log("hello");}
+				else {menu.style.display="none";}
+			}
