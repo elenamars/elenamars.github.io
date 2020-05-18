@@ -108,6 +108,7 @@ h1	{
 	bottom: 0;
 	margin: auto;
 	cursor: pointer;
+	z-index: -3;
 	}
 
 .document img {
@@ -176,6 +177,7 @@ h1	{
 
 #menu ul li{
 	list-style-type: none;
+	z-index: 1000;
 	}
 
 #menu ul{
@@ -378,6 +380,7 @@ td{
 	bottom: 0;
 	margin: auto;
 	cursor: pointer;
+	z-index: -5;
 	}
 
 #text {
@@ -454,9 +457,9 @@ td{
 	font-style: italic;
 	}
 
-#menu {
+/* #menu {
 	display: none;
-	}
+	} */
 
 #mob{
 	top:10%;
@@ -529,9 +532,9 @@ td{
 	display: none;
 	}
 
-#menu{
+/* #menu{
 	display: none;
-	}
+	} */
 
 #m-img{
 	display: block;
@@ -607,9 +610,9 @@ td{
 	display: none;
 	}
 
-#menu{
+/* #menu{
 	display: none;
-	}
+	} */
 
 #m-img{
 	display: block;
