@@ -27,6 +27,10 @@ p 	{
 	padding-bottom: 40px;
 	}
 
+	iframe {
+		margin: 50px;
+	}
+
 
 a 	{
 	color: black;
